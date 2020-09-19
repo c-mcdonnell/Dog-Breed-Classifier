@@ -9,7 +9,7 @@ The objectives of this project are as follows:
 
 ## How it works
 ### Command Line Arguments
-[get_input_args.py](/Dog-Breed-Classifier/blob/master/get_input_args.py)
+[get_input_args.py](c-mcdonnell/Dog-Breed-Classifier/blob/master/get_input_args.py)
 
 Use argparse to retrieve three command line arguments from the user.
 
