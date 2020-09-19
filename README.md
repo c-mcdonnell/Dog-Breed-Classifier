@@ -10,7 +10,9 @@ The objectives of this project are as follows:
 ## How it works
 ### Command Line Arguments
 [get_input_args.py](/Dog-Breed-Classifier/blob/master/get_input_args.py)
+
 Use argparse to retrieve three command line arguments from the user.
+
 Inputs:
   - Folder that contains the images
   - Chosen CNN model architecture: resnet, alexnet, or vgg (set one as default)
